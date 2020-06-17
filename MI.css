@@ -1,0 +1,102 @@
+header {
+    background-color: #5F9EA0;
+    text-align: center;
+    border-top: 2px solid #7FFF00;
+    border-bottom: 2px solid #7FFF00;
+    font-family: "Courier New", Courier, monospace;
+}
+
+p {
+    font-size: 1.2em;
+}
+
+h1 {
+    font-size: 2em;
+}
+
+h3 {
+    font-size: 1.6em;
+}
+
+.music {
+    border-top: 2px solid black;
+    border-bottom: 2px solid black;
+    margin: auto;
+    width: 100%;
+    text-align: center;
+    background-color: #DEB887;
+}
+
+.football {
+    border-top: 2px solid black;
+    border-bottom: 2px solid black;
+    margin: auto;
+    width: 100%;
+    text-align: center;
+    background-color: #00FFFF;
+}
+
+ul {
+    display: inline-block;
+    text-align: left;
+    font-size: 1em;
+}
+
+ol {
+    display: inline-block;
+    text-align: left;
+    font-size: 1.2em;
+}
+
+.reading {
+    border-top: 2px solid black;
+    border-bottom: 2px solid black;
+    margin: auto;
+    width: 100%;
+    text-align: center;
+    background-color: #FFC0CB;
+}
+
+.dailyroutine {
+    border-top: 2px solid black;
+    border-bottom: 2px solid black;
+    text-align: center;
+    background-color: springgreen;
+    margin-bottom: 10px;
+}
+
+.table {
+    border-collapse: collapse;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 10px;
+    font-size: 1.2em;
+}
+
+td {
+    text-align: center;
+    border: 2px solid black;
+    background-color: plum;
+}
+
+th {
+    text-align: center;
+    border: 2px solid black;
+    background-color: yellow;
+}
+
+#tablaimage {
+    border: 1px solid black;
+}
+
+#bvblogo {
+    border: 1px solid black;
+}
+
+#book {
+    border: 1px solid black;
+}
+
+.footballlist {
+    font-size: 1.2em;
+}
